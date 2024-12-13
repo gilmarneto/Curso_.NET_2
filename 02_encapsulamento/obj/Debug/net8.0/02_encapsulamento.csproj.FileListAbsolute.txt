@@ -1,0 +1,14 @@
+C:\Users\96010\Desktop\Curso_.NET_2\02_encapsulamento\obj\Debug\net8.0\02_encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_2\02_encapsulamento\obj\Debug\net8.0\02_encapsulamento.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\02_encapsulamento\obj\Debug\net8.0\02_encapsulamento.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_2\02_encapsulamento\obj\Debug\net8.0\02_encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\02_encapsulamento\bin\Debug\net8.0\02_encapsulamento.exe
+C:\Users\96010\Desktop\Curso_.NET_2\02_encapsulamento\bin\Debug\net8.0\02_encapsulamento.deps.json
+C:\Users\96010\Desktop\Curso_.NET_2\02_encapsulamento\bin\Debug\net8.0\02_encapsulamento.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_2\02_encapsulamento\bin\Debug\net8.0\02_encapsulamento.dll
+C:\Users\96010\Desktop\Curso_.NET_2\02_encapsulamento\bin\Debug\net8.0\02_encapsulamento.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\02_encapsulamento\obj\Debug\net8.0\02_encapsulamento.dll
+C:\Users\96010\Desktop\Curso_.NET_2\02_encapsulamento\obj\Debug\net8.0\refint\02_encapsulamento.dll
+C:\Users\96010\Desktop\Curso_.NET_2\02_encapsulamento\obj\Debug\net8.0\02_encapsulamento.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\02_encapsulamento\obj\Debug\net8.0\02_encapsulamento.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_2\02_encapsulamento\obj\Debug\net8.0\ref\02_encapsulamento.dll

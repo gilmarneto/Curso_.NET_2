@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "encapsulamento_com_dicionario/1.0.0": {
+        "runtime": {
+          "encapsulamento_com_dicionario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "encapsulamento_com_dicionario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

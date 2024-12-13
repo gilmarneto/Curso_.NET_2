@@ -1,0 +1,14 @@
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\dicionario_com_lista\bin\Debug\net8.0\dicionario_com_lista.exe
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\dicionario_com_lista\bin\Debug\net8.0\dicionario_com_lista.deps.json
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\dicionario_com_lista\bin\Debug\net8.0\dicionario_com_lista.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\dicionario_com_lista\bin\Debug\net8.0\dicionario_com_lista.dll
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\dicionario_com_lista\bin\Debug\net8.0\dicionario_com_lista.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\dicionario_com_lista\obj\Debug\net8.0\dicionario_com_lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\dicionario_com_lista\obj\Debug\net8.0\dicionario_com_lista.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\dicionario_com_lista\obj\Debug\net8.0\dicionario_com_lista.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\dicionario_com_lista\obj\Debug\net8.0\dicionario_com_lista.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\dicionario_com_lista\obj\Debug\net8.0\dicionario_com_lista.dll
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\dicionario_com_lista\obj\Debug\net8.0\refint\dicionario_com_lista.dll
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\dicionario_com_lista\obj\Debug\net8.0\dicionario_com_lista.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\dicionario_com_lista\obj\Debug\net8.0\dicionario_com_lista.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\dicionario_com_lista\obj\Debug\net8.0\ref\dicionario_com_lista.dll

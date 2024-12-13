@@ -1,0 +1,14 @@
+C:\Users\96010\Desktop\Curso_.NET_2\04_estatico\obj\Debug\net8.0\04_estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_2\04_estatico\obj\Debug\net8.0\04_estatico.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\04_estatico\obj\Debug\net8.0\04_estatico.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_2\04_estatico\obj\Debug\net8.0\04_estatico.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\04_estatico\bin\Debug\net8.0\04_estatico.exe
+C:\Users\96010\Desktop\Curso_.NET_2\04_estatico\bin\Debug\net8.0\04_estatico.deps.json
+C:\Users\96010\Desktop\Curso_.NET_2\04_estatico\bin\Debug\net8.0\04_estatico.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_2\04_estatico\bin\Debug\net8.0\04_estatico.dll
+C:\Users\96010\Desktop\Curso_.NET_2\04_estatico\bin\Debug\net8.0\04_estatico.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\04_estatico\obj\Debug\net8.0\04_estatico.dll
+C:\Users\96010\Desktop\Curso_.NET_2\04_estatico\obj\Debug\net8.0\refint\04_estatico.dll
+C:\Users\96010\Desktop\Curso_.NET_2\04_estatico\obj\Debug\net8.0\04_estatico.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\04_estatico\obj\Debug\net8.0\04_estatico.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_2\04_estatico\obj\Debug\net8.0\ref\04_estatico.dll
