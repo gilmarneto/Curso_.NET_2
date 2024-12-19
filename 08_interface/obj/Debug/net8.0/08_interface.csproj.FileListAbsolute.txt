@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\obj\Debug\net8.0\08_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\obj\Debug\net8.0\08_interface.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\obj\Debug\net8.0\08_interface.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\obj\Debug\net8.0\08_interface.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\obj\Debug\net8.0\08_interface.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\bin\Debug\net8.0\08_interface.exe
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\bin\Debug\net8.0\08_interface.deps.json
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\bin\Debug\net8.0\08_interface.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\bin\Debug\net8.0\08_interface.dll
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\bin\Debug\net8.0\08_interface.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\obj\Debug\net8.0\08_interface.dll
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\obj\Debug\net8.0\refint\08_interface.dll
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\obj\Debug\net8.0\08_interface.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\obj\Debug\net8.0\08_interface.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_2\08_interface\obj\Debug\net8.0\ref\08_interface.dll

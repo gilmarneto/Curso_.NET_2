@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\obj\Debug\net8.0\07_abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\obj\Debug\net8.0\07_abstracao.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\obj\Debug\net8.0\07_abstracao.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\obj\Debug\net8.0\07_abstracao.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\obj\Debug\net8.0\07_abstracao.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\bin\Debug\net8.0\07_abstracao.exe
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\bin\Debug\net8.0\07_abstracao.deps.json
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\bin\Debug\net8.0\07_abstracao.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\bin\Debug\net8.0\07_abstracao.dll
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\bin\Debug\net8.0\07_abstracao.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\obj\Debug\net8.0\07_abstracao.dll
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\obj\Debug\net8.0\refint\07_abstracao.dll
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\obj\Debug\net8.0\07_abstracao.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\obj\Debug\net8.0\07_abstracao.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_2\07_abstracao\obj\Debug\net8.0\ref\07_abstracao.dll

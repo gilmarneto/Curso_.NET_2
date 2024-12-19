@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\bin\Debug\net9.0\calculo_porcentagem.exe
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\bin\Debug\net9.0\calculo_porcentagem.deps.json
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\bin\Debug\net9.0\calculo_porcentagem.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\bin\Debug\net9.0\calculo_porcentagem.dll
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\bin\Debug\net9.0\calculo_porcentagem.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\obj\Debug\net9.0\calculo_porcentagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\obj\Debug\net9.0\calculo_porcentagem.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\obj\Debug\net9.0\calculo_porcentagem.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\obj\Debug\net9.0\calculo_porcentagem.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\obj\Debug\net9.0\calculo_porcentagem.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\obj\Debug\net9.0\calculo_porcentagem.dll
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\obj\Debug\net9.0\refint\calculo_porcentagem.dll
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\obj\Debug\net9.0\calculo_porcentagem.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\obj\Debug\net9.0\calculo_porcentagem.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_2\REVISAO\calculo_porcentagem\obj\Debug\net9.0\ref\calculo_porcentagem.dll

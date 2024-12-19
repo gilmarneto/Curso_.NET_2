@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "watch 08_interface",
+			"file": "C:\\Users\\96010\\Desktop\\Curso_.NET_2\\08_interface\\08_interface.csproj",
+			"problemMatcher": [],
+			"label": "dotnet: watch 08_interface"
+		}
+	]
+}

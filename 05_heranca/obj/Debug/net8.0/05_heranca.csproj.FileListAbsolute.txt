@@ -12,3 +12,4 @@ C:\Users\96010\Desktop\Curso_.NET_2\05_heranca\obj\Debug\net8.0\refint\05_heranc
 C:\Users\96010\Desktop\Curso_.NET_2\05_heranca\obj\Debug\net8.0\05_heranca.pdb
 C:\Users\96010\Desktop\Curso_.NET_2\05_heranca\obj\Debug\net8.0\05_heranca.genruntimeconfig.cache
 C:\Users\96010\Desktop\Curso_.NET_2\05_heranca\obj\Debug\net8.0\ref\05_heranca.dll
+C:\Users\96010\Desktop\Curso_.NET_2\05_heranca\obj\Debug\net8.0\05_heranca.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\obj\Debug\net9.0\ex_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\obj\Debug\net9.0\ex_04.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\obj\Debug\net9.0\ex_04.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\obj\Debug\net9.0\ex_04.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\obj\Debug\net9.0\ex_04.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\bin\Debug\net9.0\ex_04.exe
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\bin\Debug\net9.0\ex_04.deps.json
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\bin\Debug\net9.0\ex_04.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\bin\Debug\net9.0\ex_04.dll
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\bin\Debug\net9.0\ex_04.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\obj\Debug\net9.0\ex_04.dll
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\obj\Debug\net9.0\refint\ex_04.dll
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\obj\Debug\net9.0\ex_04.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\obj\Debug\net9.0\ex_04.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_2\EXERCICIOS\ex_04\obj\Debug\net9.0\ref\ex_04.dll
