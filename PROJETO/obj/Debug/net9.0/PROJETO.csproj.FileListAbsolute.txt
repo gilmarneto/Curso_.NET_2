@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\obj\Debug\net9.0\PROJETO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\obj\Debug\net9.0\PROJETO.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\obj\Debug\net9.0\PROJETO.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\obj\Debug\net9.0\PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\obj\Debug\net9.0\PROJETO.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\bin\Debug\net9.0\PROJETO.exe
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\bin\Debug\net9.0\PROJETO.deps.json
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\bin\Debug\net9.0\PROJETO.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\bin\Debug\net9.0\PROJETO.dll
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\bin\Debug\net9.0\PROJETO.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\obj\Debug\net9.0\PROJETO.dll
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\obj\Debug\net9.0\refint\PROJETO.dll
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\obj\Debug\net9.0\PROJETO.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\obj\Debug\net9.0\PROJETO.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_2\Projeto\obj\Debug\net9.0\ref\PROJETO.dll
