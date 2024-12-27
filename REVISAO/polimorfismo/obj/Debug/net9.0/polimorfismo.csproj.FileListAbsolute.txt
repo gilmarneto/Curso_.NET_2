@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\bin\Debug\net9.0\polimorfismo.exe
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\bin\Debug\net9.0\polimorfismo.deps.json
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\bin\Debug\net9.0\polimorfismo.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\bin\Debug\net9.0\polimorfismo.dll
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\bin\Debug\net9.0\polimorfismo.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\obj\Debug\net9.0\polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\obj\Debug\net9.0\polimorfismo.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\obj\Debug\net9.0\polimorfismo.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\obj\Debug\net9.0\polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\obj\Debug\net9.0\polimorfismo.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\obj\Debug\net9.0\polimorfismo.dll
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\obj\Debug\net9.0\refint\polimorfismo.dll
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\obj\Debug\net9.0\polimorfismo.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\obj\Debug\net9.0\polimorfismo.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\polimorfismo\obj\Debug\net9.0\ref\polimorfismo.dll

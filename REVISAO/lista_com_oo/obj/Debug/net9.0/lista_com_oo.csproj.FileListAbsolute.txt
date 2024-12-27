@@ -1,0 +1,15 @@
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\obj\Debug\net9.0\lista_com_oo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\obj\Debug\net9.0\lista_com_oo.AssemblyInfoInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\obj\Debug\net9.0\lista_com_oo.AssemblyInfo.cs
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\obj\Debug\net9.0\lista_com_oo.csproj.CoreCompileInputs.cache
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\obj\Debug\net9.0\lista_com_oo.sourcelink.json
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\bin\Debug\net9.0\lista_com_oo.exe
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\bin\Debug\net9.0\lista_com_oo.deps.json
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\bin\Debug\net9.0\lista_com_oo.runtimeconfig.json
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\bin\Debug\net9.0\lista_com_oo.dll
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\bin\Debug\net9.0\lista_com_oo.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\obj\Debug\net9.0\lista_com_oo.dll
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\obj\Debug\net9.0\refint\lista_com_oo.dll
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\obj\Debug\net9.0\lista_com_oo.pdb
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\obj\Debug\net9.0\lista_com_oo.genruntimeconfig.cache
+C:\Users\96010\Desktop\Curso_.NET_2\revisao\lista_com_oo\obj\Debug\net9.0\ref\lista_com_oo.dll
